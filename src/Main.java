@@ -36,6 +36,7 @@ public class Main {
         System.out.println("Через " + year + " лет численность населения составит " + population);
 
 
+
     }
 
 
